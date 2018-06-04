@@ -1,0 +1,13 @@
+{
+  "name": "wordpress-bullfrog-theme",
+  "description": "A responsive wordpress theme",
+  "version": "1.0.0",
+  "repository": {},
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3"
+  }
+}
