@@ -1,8 +1,5 @@
 <?php
 
-// Register Custom Navigation Walker
-require_once('wp-bootstrap-navwalker.php');
-
 function bfg_setup_assets() {
   wp_register_style(
     'Roboto',
