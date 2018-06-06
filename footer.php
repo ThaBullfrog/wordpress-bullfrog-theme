@@ -1,3 +1,5 @@
+          </div><!-- /.text-column -->
+        </div><!-- /.row -->
       </div> <!-- /.container -->
     </div> <!-- /.content -->
     <div class="footer-background"><div class="container">
@@ -20,3 +22,4 @@
     <?php wp_footer(); ?>
   </body>
 </html>
+

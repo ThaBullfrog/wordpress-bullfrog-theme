@@ -16,7 +16,7 @@
     <a href="/">
       <img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" class="logo" alt="Logo">
     </a>
-    <a href="/" class="brand">Website Name</a>
+    <a href="/" class="brand"><?php bloginfo('name'); ?></a>
     <a
       id="navbar-button"
       href="#"
@@ -38,3 +38,5 @@
 
 <div class="content">
   <div class="container">
+    <div class="row">
+      <div class="text-column">
